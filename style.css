@@ -1,5 +1,7 @@
 .extrenal-class{
     background-color: green;
+    min-height: 100px;
+    
     font-size: 20px;
-    color: mediumblue;
+    color: rgb(165, 165, 240);
 }
